@@ -12,7 +12,7 @@ ada 5 icon tambahan, diantaranya adalah
 
 untuk iconnya memakai 24x24
 
-jangan lupa tambahkan implementasi di build gradde(module:app), tambakan dibawah ini:
+jangan lupa tambahkan implementasi di build gradle(module:app), tambakan dibawah ini:
 
 implementation 'com.google.android.material:material:1.1.0'
 
